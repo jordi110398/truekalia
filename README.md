@@ -1,0 +1,2 @@
+# truekalia
+Projecte final Truekalia
